@@ -8,7 +8,7 @@
 
 ### HTML
 - [X] UTF-8 
-- [ ] Икона за прелистувач/favicon
+- [X] Икона за прелистувач/favicon
 - [ ] Пребарувачко подобрување на резултати (SEO)
 
 ### CSS
@@ -61,6 +61,7 @@ Font Awesome Free.
 
 ## Заслуги
 BukyVede - фонт за латиница,кирилица и глаголица изработен од @ Sebastian Kempgen 2013-2015
+
 Font Awesome Free - во папаката `icons` се наоѓаат иконите кои се од FontAwesome Free.
 
 
